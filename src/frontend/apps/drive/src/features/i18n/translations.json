@@ -219,6 +219,10 @@
         },
         "tree": {
           "trash": "Trash",
+          "actions": {
+            "more_actions": "More actions",
+            "create_folder": "Create folder"
+          },
           "create": {
             "label": "Create",
             "folder": "New folder",
@@ -636,6 +640,10 @@
         },
         "tree": {
           "trash": "Corbeille",
+          "actions": {
+            "more_actions": "Plus d'actions",
+            "create_folder": "Créer un dossier"
+          },
           "createFolder": "Créer",
           "personalSpace": "Espace personnel",
           "shared_space": "Espace partagé",
@@ -1059,6 +1067,10 @@
         },
         "tree": {
           "trash": "Prullenbak",
+          "actions": {
+            "more_actions": "Meer acties",
+            "create_folder": "Map maken"
+          },
           "create": {
             "label": "Creëeren",
             "folder": "Nieuwe map",

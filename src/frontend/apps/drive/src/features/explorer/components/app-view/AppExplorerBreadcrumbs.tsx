@@ -63,9 +63,10 @@ export const AppExplorerBreadcrumbs = () => {
             }
           />
           <Button
-            icon={<img src={createFolderSvg.src} alt="Create Folder" />}
+            icon={<img src={createFolderSvg.src} alt={t("explorer.tree.actions.create_folder")} />}
             variant="tertiary"
             size="small"
+            aria-label={t("explorer.tree.actions.create_folder")}
             onClick={() => {
               createFolderModal.open();
             }}
